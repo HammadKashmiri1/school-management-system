@@ -88,8 +88,8 @@ A Spring Boot application for managing school data including schools, students, 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd school-database
+   git clone https://github.com/HammadKashmiri1/school-management-system.git
+   cd school-management-system
    ```
 
 2. **Start MongoDB** (if running locally)
